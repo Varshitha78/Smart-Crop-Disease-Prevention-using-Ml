@@ -1,9 +1,10 @@
-# Precision Agriculture using Machine Learning and IOT
+#Smart Crop Disease Prevention Using Machine Learning for Sustainable Development
 
 ## DATA SOURCE 📊
 - [Crop recommendation dataset ](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
 - [Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
 - [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+- 
 
 ## MOTIVATION 💪
 Farming is one of the major sectors that influences a country’s economic growth.
@@ -18,18 +19,7 @@ Farming is one of the major sectors that influences a country’s economic growt
 
   -   For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
-  
-## Contributors:
 
--[Atharva Labhasetwar](https://www.linkedin.com/in/atharva-labhasetwar)
-
--[Venkata Narayana Bommanaboina](https://www.linkedin.com/in/bvnarayana515739/)
-
--[Kundan Patil](https://www.linkedin.com/in/kundan-patil-638979199)
-
-
-## Home Page of our WebApplication
-![Home Page of our WebApplication](https://github.com/atharval1/precision-agriculture-using-machine-learning/blob/main/Project-docs/App-snaps/Home.png)
 
 
 ## How to use 💻
